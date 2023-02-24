@@ -2,5 +2,10 @@
   "name": "cloud-storage-app",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "api",
+    "frontend"
+  ]
 }
