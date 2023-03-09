@@ -1,0 +1,5 @@
+COMPLETED
+    • 
+
+INCOMPLETED
+    • Remove MySQL libs from api package json
