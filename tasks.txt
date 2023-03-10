@@ -1,5 +1,4 @@
 COMPLETED
-    • 
+    • Remove Mongoose lib from api package json
 
 INCOMPLETED
-    • Remove MySQL libs from api package json
